@@ -1,0 +1,48 @@
+h1 {
+	color: blue;
+	text-align: center;
+	font-family: Calibri, sans-serif;
+	font-size: 48px;
+}
+
+p {
+	color: red;
+	font-family: Ariel, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	border: 5px dotted blue;
+}
+
+div {
+	font-family: Ariel, sans-serif;
+}
+
+#div {
+	background-color: blue;
+	width: 500px;
+	height: 400px;
+	margin: 30px;
+	padding: 20px;
+	font-family: Ariel, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#top {
+	font-size: 36px;
+	color: red;
+}
+
+#middle {
+	font-size: 24px;
+}
+
+#bottom {
+	font-size: 12px;
+}
+
+.name {
+	font-weight: bold;
+	color: blue;
+}
